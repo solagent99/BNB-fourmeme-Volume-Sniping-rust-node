@@ -1,0 +1,24 @@
+{
+"name": "node-orchestrator",
+"version": "0.1.0",
+"private": true,
+"scripts": {
+"build": "tsc",
+"start": "ts-node src/index.ts",
+"lint": "eslint . --ext .ts",
+"fmt": "prettier --write ."
+},
+"dependencies": {
+"dotenv": "^16.3.1",
+"ethers": "^6.8.0",
+"node-fetch": "^2.6.9",
+"ts-node": "^10.9.1"
+},
+"devDependencies": {
+"typescript": "^5.1.6",
+"prettier": "^2.8.8",
+"eslint": "^8.44.0",
+"@typescript-eslint/parser": "^6.7.1",
+"@typescript-eslint/eslint-plugin": "^6.7.1"
+}
+}
