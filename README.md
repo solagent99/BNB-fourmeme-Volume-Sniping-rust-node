@@ -6,16 +6,24 @@
 
 ---
 
+### 🤝Support / Contact
+If you have any question or something, feel free to reach out me anytime via telegram, discord or twitter.
+<br>
+#### 🌹 You're always welcome 🌹
+
+Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+
+
 <p align="center">
   <img src="assets/tgbotannounce.png" alt="TG Bot - Sniping, Volume, Bundler on BSC" width="800">
 </p>
 
 
-## Purpose
+## 🐸Purpose
 
 This project demonstrates a pragmatic production-style architecture used for high-frequency DeFi operations:
 
-### Workflow & Bot Functions
+### 📦Workflow & Bot Functions
 - 1. **PairCreated**: Node.js orchestrator subscribes to liquidity events.
 - 2. **Pre-Buy Checks**: owner check, transfer simulation, ERC20 metadata, getAmountsOut validation.
 - 3. **Volume Bot**: monitors BNB volume on pairs; triggers alerts or bundler buys when thresholds exceeded.
@@ -52,7 +60,7 @@ Content-Type: application/json
 
 
 
-## Environment Variables
+## ⚙️Environment Variables
 
 **Copy `.env.example` -> `.env` and edit. Never commit secrets.**
 
@@ -83,16 +91,11 @@ TELEGRAM_BOT_TOKEN=123456:ABCDEF
 TELEGRAM_CHAT_ID=987654321
 
 
-### CI / Docker / Deployment notes
+### 🚀 CI / Docker / Deployment notes
 - **Add GitHub Actions workflows**:
   Rust: cargo fmt -- --check, cargo clippy, cargo build --release
   Node: npm ci, npm run lint, npm run build
 - Dockerize executor & orchestrator with environment variables injected at runtime (do NOT bake secrets).
 - Use container orchestration (K8s) or systemd with secret mounts for production.
 
-### Support / Contact
-If you have any question or something, feel free to reach out me anytime via telegram, discord or twitter.
-<br>
-#### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
