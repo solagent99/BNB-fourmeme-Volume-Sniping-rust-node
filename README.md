@@ -6,7 +6,9 @@
 
 ---
 
-![Let's Go](https://imgur.com/mf6gDlv)
+<p align="center">
+  <img src="assets/tgbotannounce.png" alt="TG Bot - Sniping, Volume, Bundler on BSC" width="800">
+</p>
 
 
 ## Purpose
@@ -24,7 +26,10 @@ This project demonstrates a pragmatic production-style architecture used for hig
     Pre-buy check results
 
 
-![TG Bot workflow screenshot](https://imgur.com/MB2xB0z)
+<p align="center">
+  <img src="assets/tgbot.png" alt="TG Bot - Sniping, Volume, Bundler on BSC" width="800">
+</p>
+
 ---
 
 
