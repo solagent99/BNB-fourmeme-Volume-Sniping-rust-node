@@ -6,6 +6,7 @@
 
 ---
 
+![Let's Go](https://imgur.com/mf6gDlv)
 
 
 ## Purpose
@@ -23,6 +24,7 @@ This project demonstrates a pragmatic production-style architecture used for hig
     Pre-buy check results
 
 
+![TG Bot workflow screenshot](https://imgur.com/MB2xB0z)
 ---
 
 
