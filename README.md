@@ -12,7 +12,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 #### 🌹 You're always welcome 🌹
 
 Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
-Discord: [@Leo](https://discord.com/users/695754747843444738) <br?
+Discord: [@Leo](https://discord.com/users/695754747843444738) <br>
 
 <p align="center">
   <img src="assets/tgbotannounce.png" alt="TG Bot - Sniping, Volume, Bundler on BSC" width="800">
