@@ -11,6 +11,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
+WhatsApp: [@Leo](https://wa.me/447446455601) <br>
 Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
 Discord: [@Leo](https://discord.com/users/695754747843444738) <br>
 
